@@ -4,3 +4,7 @@ Utilizando uma placa Arduino da serie MKR, e o novo software da Arduino, o Ardui
 Para o desenvolvimento é necessário uma placa arduino da serie MKR e um computador com acesso a internet capaz de acessar a página do Arduino IoT Cloud, além dos componentes do circuito elétrico. Onde tudo que é necessario esta representados no anexo *Diagrama-de-montagem.png*.
 # Instalação
 Esse projeto foi desenvolvido para ser fixado na parede e os feixes de luz do laser perpendicular a porta. Um diagrama de instalação  simpificado pode ser visto no anexo *Diagrama-de-instalacao.png*.
+# Uso
+Esse sistema é bastante versatil que não necessariamente precisa ser usado como sistema de segurança, ele pode ser usado como um circuito de trancamento de portas, ou de seguraça para crianças em escadas, é necessario somente um pouco de imaginação para colocar esse sistema em funcionamento.
+# Créditos
+Brincando com Ideias e Raffaele Farinaro
