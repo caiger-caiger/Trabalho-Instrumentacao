@@ -3,4 +3,4 @@ Utilizando uma placa Arduino da serie MKR, e o novo software da Arduino, o Ardui
 # Pré-requisitos
 Para o desenvolvimento é necessário uma placa arduino da serie MKR e um computador com acesso a internet capaz de acessar a página do Arduino IoT Cloud, além dos componentes do circuito elétrico. Onde tudo que é necessario esta representados no anexo *Diagrama-de-montagem.png*.
 # Instalação
-Esse projeto foi desenvolvido para ser fixado na parede e os feixes de luz do laser perpendicular a porta. Um diagrama de instalação  simpificado pode ser visto no anexo *Diagrama-de-instalacao.png*
+Esse projeto foi desenvolvido para ser fixado na parede e os feixes de luz do laser perpendicular a porta. Um diagrama de instalação  simpificado pode ser visto no anexo *Diagrama-de-instalacao.png*.
